@@ -1,1 +1,2 @@
+--i
 This is a simple text file with an error that needs to be fixed.
